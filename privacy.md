@@ -3,10 +3,6 @@ layout: page
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
-Last updated: March 2026
-
 **VirtzHouse** (the "App") is built with a focus on privacy. This policy explains how we handle information.
 
 ## 1. No Data Collection
@@ -19,5 +15,8 @@ The App does not include any third-party analytics, advertising, or tracking SDK
 Since we do not collect any information, we do not share or sell any data to third parties.
 
 ## 4. Contact
-If you have any questions regarding this Privacy Policy, please feel free to open a thread in our [d/privacy](https://github.com/virtzhouse/virtzhouse.github.io/)
-discussion board.
+If you have any questions regarding this Privacy Policy, please feel free to open a thread in our [d/privacy](https://github.com/virtzhouse/virtzhouse.github.io/discussions/categories/privacy) discussion board.
+
+***
+
+*Last updated: March 2024*
