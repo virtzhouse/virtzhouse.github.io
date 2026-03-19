@@ -5,9 +5,9 @@ title: VirtzHouse
 
 ### Run macOS and Linux Virtual Machines at Near-Native Speed
 
-![mainView](assets/images/mainView-dark.png)
-
 Experience a new standard for desktop virtualization.
+
+<img src="assets/images/mainView-dark.png" alt="mainView" style="max-width: 60%; height: auto; display: block; margin: 20px auto;">
 
 ### This is for the tech-savvy, the security experts, the Linux enthusiasts, the Apple Silicon lovers... for those who want quality, aesthetics, and speed.
 
