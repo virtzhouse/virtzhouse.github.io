@@ -5,7 +5,7 @@ title: VirtzHouse
 
 ### Run macOS and Linux Virtual Machines at Near-Native Speed
 
-![VirtzHouse Screenshot](assets/images/screenshot.png)
+![mainView](assets/images/mainView-dark.png)
 
 Experience a new standard for desktop virtualization.
 
