@@ -19,4 +19,4 @@ If you have any questions regarding this Privacy Policy, please feel free to ope
 
 ***
 
-*Last updated: March 2024*
+*Last updated: September 2026*
